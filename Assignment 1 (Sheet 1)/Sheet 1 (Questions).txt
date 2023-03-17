@@ -1,4 +1,4 @@
 Q8)While the member functions of the same class can use the data,
 the variables and data of one class cannot be accessible by another class.
 
-Q9)the variable id is non-static, so it can be invoked with the class.
+Q9)the variable id is non-static, so it cannot be invoked with the class.

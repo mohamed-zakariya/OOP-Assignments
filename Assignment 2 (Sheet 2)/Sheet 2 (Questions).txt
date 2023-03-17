@@ -1,0 +1,10 @@
+Q6) in a) the output is (A's no-arg constructor is invoked).
+
+in b) the proble is in the constructor B the constructor of its super class need's to be invoked by super.
+
+Q7) the super has to be invoked in the constructor of the base class.
+
+Q8)it's and overridden methode.
+
+Q9)yes.
+
