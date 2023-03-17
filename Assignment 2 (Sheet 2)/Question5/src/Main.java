@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
         MyInteger v1 = new MyInteger(5);
         MyInteger v2 = new MyInteger(6);
         System.out.println(v1.isEven());
