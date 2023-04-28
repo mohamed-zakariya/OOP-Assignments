@@ -38,7 +38,7 @@ public class BarChart extends Application {
         rectangle4.setRotate(90);
 
         // Add rectangles to pane
-        group.getChildren().addAll(new Text(0, 67, "Project--20%"),rectangle1,
+        group.getChildren().addAll(new Text(0, 67,"Project--20%"),rectangle1,
                 new Text(100, 70, "Quiz--10%"),rectangle2,
                 new Text(200, 50, "Midterm--30%"),rectangle3,
                 new Text(320, 40, "Final--40%"),rectangle4);
